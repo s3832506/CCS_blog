@@ -7,7 +7,7 @@ disable_html_sanitization: true
 
 Welcome everyone, to RMIT Creative Coding Specialisation! 🚀
 
-<iframe src="https://editor.p5js.org/capogreco/full/-B11g3Uth" width="100%" height="242"></iframe>
+<iframe src="https://editor.p5js.org/capogreco/full/-B11g3Uth" width="100%" height="242px"></iframe>
 
 ![a visual representation of a surreal looking source of light](/240306_first_post/cool2.png) 
 
