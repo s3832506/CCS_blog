@@ -1,11 +1,18 @@
-/
+---
+title: example c2.js
+published_at: 2024.04.17
+snippet: class example
+disabel_html_sanitization: true
+----
+
 
 <script src="/scripts/c2.min.js"></script>
 
 <canvas id= "c2" >
 
 <script>
-/Created by Ren Yuan
+    
+//Created by Ren Yuan
 
 
 const renderer = new c2.Renderer(document.getElementById('c2'));
